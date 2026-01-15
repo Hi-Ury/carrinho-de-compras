@@ -1,10 +1,5 @@
 # 🛒 Carrinho de Compras em JavaScript
 
-<div align="center">
-  <img src="./assets/gif-projeto.gif" width="700">
-  <p><em>Demonstração da aplicação</em></p>
-</div>
-
 ---
 
 ## 🏷️ Badges
@@ -49,7 +44,10 @@ Projeto feito com html e css disponibilizados pela alura
 - Limpar carrinho
 
 ### Demonstração
-📸 *(Adicionar imagem ou GIF da aplicação funcionando)*
+<div align="center">
+  <img src="./assets/gif-projeto.gif" width="750" >
+  <p><em>Demonstração da aplicação</em></p>
+</div>
 
 ---
 
