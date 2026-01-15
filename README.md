@@ -1,7 +1,7 @@
 # 🛒 Carrinho de Compras em JavaScript
 
 <div align="center">
-  <img src="./assets/gif-projeto.gif" width="300">
+  <img src="./assets/gif-projeto.gif" width="700">
   <p><em>Demonstração da aplicação</em></p>
 </div>
 
@@ -60,6 +60,6 @@ Projeto feito com html e css disponibilizados pela alura
 git clone https://github.com/hi-ury/carrinho-de-compras.git
 ```
 2. Ou acesse: <br>
-[LINK](https://github.com/hi-ury/carrinho-de-compras.git)
+[LINK](https://https://hi-ury.github.io/carrinho-de-compras/)
 
 
