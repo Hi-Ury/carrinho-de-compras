@@ -60,6 +60,6 @@ Projeto feito com html e css disponibilizados pela alura
 git clone https://github.com/hi-ury/carrinho-de-compras.git
 ```
 2. Ou acesse: <br>
-[LINK](//https://hi-ury.github.io/carrinho-de-compras/)
+[LINK](https://hi-ury.github.io/carrinho-de-compras/)
 
 
